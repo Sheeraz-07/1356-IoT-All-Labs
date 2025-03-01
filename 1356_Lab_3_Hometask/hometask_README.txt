@@ -1,7 +1,5 @@
-
-								**Wokwi project link**
-
-						https://wokwi.com/projects/423493374176640001
+**Wokwi project link**
+https://wokwi.com/projects/423493374176640001
 
 
 
