@@ -2,10 +2,10 @@ import network
 import utime as time
 
 WIFI_SSID = 'sherry'
-WIFI_PASS = 'connectedd'
+WIFI_PASS = 'connected'
 
 # Static IP configuration
-STATIC_IP = "192.168.55.100"  # Replace with your desired static IP
+STATIC_IP = "192.168.1.100"  # Replace with your desired static IP
 SUBNET_MASK = "255.255.255.0"
 GATEWAY = "192.168.55.183"  # Replace with your router's IP
 DNS_SERVER = "8.8.8.8"  # Google DNS

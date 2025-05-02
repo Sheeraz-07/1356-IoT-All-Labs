@@ -7,7 +7,7 @@ WIFI_SSID = 'sherry'
 WIFI_PASS = 'connectedd'
 
 # Static IP configuration
-STATIC_IP = "192.168.10.88"  # Replace with your desired static IP/
+STATIC_IP = "192.168.255.100"  # Replace with your desired static IP/
 SUBNET_MASK = "255.255.255.0"
 GATEWAY = "192.168.255.88"  # Replace with your router's IP/hotspot
 DNS_SERVER = "8.8.8.8"  # Google DNS
