@@ -159,7 +159,7 @@ void sendToFirebase(float temp, float humidity) {
     if (httpCode == -1) {
       Serial.println("Check your Firebase URL and authentication");
     }
-  }
+  } 
 
   http.end();
 }
